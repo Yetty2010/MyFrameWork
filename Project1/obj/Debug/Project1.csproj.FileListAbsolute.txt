@@ -1,0 +1,12 @@
+C:\MyFramework\MsTest\Project1\bin\Debug\Project1.dll
+C:\MyFramework\MsTest\Project1\bin\Debug\Project1.pdb
+C:\MyFramework\MsTest\Project1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\MyFramework\MsTest\Project1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\MyFramework\MsTest\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\MyFramework\MsTest\Project1\obj\Debug\Project1.dll
+C:\MyFramework\MsTest\Project1\obj\Debug\Project1.pdb
+C:\MyFramework\MsTest\Project1\bin\Debug\IEDriverServer.exe
+C:\MyFramework\MsTest\Project1\bin\Debug\WebDriver.dll
+C:\MyFramework\MsTest\Project1\bin\Debug\WebDriver.Support.dll
+C:\MyFramework\MsTest\Project1\bin\Debug\WebDriver.xml
+C:\MyFramework\MsTest\Project1\bin\Debug\WebDriver.Support.xml
